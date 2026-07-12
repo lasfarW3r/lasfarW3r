@@ -1,118 +1,98 @@
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yasir%20Lasfar&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:0f172a,100:06b6d4"/>`{=html}
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;Robotics+%7C+IoT+%7C+ROS+2;Building+NODUS;Linux+Enjoyer"/>`{=html}
-:::
+<div align="center">
 
-# `$ whoami`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,100:06B6D4&text=Yasir%20Lasfar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-``` bash
-Name        : Yasir Lasfar
-Username    : lasfarW3r
-Focus       : Embedded Systems • Robotics • IoT
-Current     : Building NODUS
-Location    : Morocco
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&duration=2800&color=22D3EE&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Robotics+%7C+IoT+Developer;Building+NODUS;ROS+2+%7C+ESP32+%7C+Linux"/>
+
+</div>
+
+```text
+$ ssh yasir@github
+
+Authenticating...
+Access Granted.
+
+Welcome back.
 ```
 
-## 🚧 Current Mission
+# 💻 whoami
 
-> **NODUS**\
-> A local-first knowledge management application built with Python and
-> SQLite.
+```bash
+Name      : Yasir Lasfar
+Username  : lasfarW3r
+Role      : Embedded Systems Engineering Student
+Focus     : Robotics | IoT | Embedded Linux
+Status    : Building NODUS
+```
 
-------------------------------------------------------------------------
+---
 
-## 🧠 About Me
+# 🚀 Current Mission
 
-I'm an Embedded Systems Engineering student who enjoys building software
-that interacts with hardware.
+## NODUS
 
-Current interests:
+> A local-first knowledge management application written in Python and SQLite.
 
--   🤖 ROS 2 & TurtleBot
--   📡 ESP32 & LoRa
--   🌐 MQTT & IoT
--   🐧 Linux
--   🧠 Software Architecture
--   💾 SQLite
--   ⚡ Embedded C/C++
+---
 
-------------------------------------------------------------------------
+# ⚡ Stack
 
-## ⚙️ Tech Stack
-
-```{=html}
 <p align="center">
-```
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![ROS](https://img.shields.io/badge/ROS2-111827?style=for-the-badge&logo=ros)
-![ESP32](https://img.shields.io/badge/ESP32-111827?style=for-the-badge)
-![Raspberry
-Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi)
-![MQTT](https://img.shields.io/badge/MQTT-111827?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-
-```{=html}
+<img src="https://skillicons.dev/icons?i=c,cpp,py,linux,sqlite,git,github,html,css,js,react,raspberrypi,vscode&theme=dark"/>
 </p>
-```
 
-------------------------------------------------------------------------
+**Also working with**
 
-## 📂 Featured Projects
+- ROS 2
+- ESP32
+- MQTT
+- LoRa
+- FreeRTOS
+- ARM Cortex
+- VHDL
 
-  Project          Description
-  ---------------- ------------------------------------------
-  🧠 NODUS         Local-first knowledge management app
-  🤖 TurtleBot 4   ROS 2 teleoperation, vision & navigation
-  📡 ESP32 LoRa    Long-range messaging with OLED
-  🌐 MQTT IoT      ESP32 + Raspberry Pi smart network
+---
 
-------------------------------------------------------------------------
+# 📂 Featured Projects
 
-## 📈 GitHub Analytics
+| Project | Description |
+|---|---|
+| 🧠 **NODUS** | Local-first PKM desktop application |
+| 🤖 **TurtleBot 4** | ROS 2 navigation, teleoperation & vision |
+| 📡 **ESP32 LoRa** | Long-range messaging with OLED |
+| 🌐 **MQTT Network** | Raspberry Pi + ESP32 IoT network |
 
-```{=html}
+---
+
+# 📊 GitHub
+
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=lasfarW3r&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasfarW3r&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lasfarW3r&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasfarW3r&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=lasfarW3r&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://streak-stats.demolab.com?user=lasfarW3r&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasfarW3r&theme=tokyo-night"/>`{=html}
-```{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasfarW3r&theme=tokyo-night"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🌍 Connect
+# 🌍 Connect
 
--   💼 LinkedIn: https://linkedin.com/in/yasir-lasfar
--   📧 lasfar.yasir@gmail.com
+- 📧 lasfar.yasir@gmail.com
+- 💼 www.linkedin.com/in/yasir-lasfar
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-### See you in the next commit.
+<div align="center">
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06b6d4,100:0f172a"/>`{=html}
-:::
+### Thanks for stopping by.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,100:0F172A"/>
+
+</div>

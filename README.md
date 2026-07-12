@@ -67,18 +67,60 @@ Status    : Building NODUS
 
 # 📊 GitHub
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lasfarW3r&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasfarW3r&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
+# 🚧 Current Development
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lasfarW3r&theme=tokyonight&hide_border=true"/>
-</p>
+```text
+NODUS
+├── Backend        ██████████ 100%
+├── Database       █████████░  90%
+├── Models         █████████░  90%
+├── API            ████░░░░░░  40%
+├── UI             ██░░░░░░░░  20%
+└── Documentation  ███░░░░░░░  30%
+```
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lasfarW3r&theme=tokyo-night"/>
-</p>
+> **Current focus:** Building the core architecture and expanding NODUS into a complete desktop knowledge manager.
+
+---
+
+# 📌 Project Status Board
+
+| Project | Status | Progress |
+|---------|:------:|:--------:|
+| 🧠 NODUS | 🟢 Active | ███████░░░ 70% |
+| 🤖 TurtleBot 4 (ROS 2) | ✅ Complete | ██████████ |
+| 📡 ESP32 LoRa Messenger | ✅ Complete | ██████████ |
+| 🌐 MQTT IoT Network | 🟡 Improving | ████████░░ |
+| ⚙️ Next Project | 🔵 Planning | ██░░░░░░░░ |
+
+---
+
+# 💻 Recent Development Log
+
+```
+commit f8c2b7a
+Author: Yasir Lasfar
+
+✓ Refactored SQLite database layer
+✓ Added document model
+✓ Improved project architecture
+
+-----------------------------------------
+
+commit a12d3c1
+
+✓ Created repository structure
+✓ Added CRUD foundation
+
+-----------------------------------------
+
+commit 7de98fa
+
+✓ Started NODUS
+✓ Initial project setup
+```
+
 
 ---
 

@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,100:06B6D4&text=Yasir%20Lasfar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&duration=2800&color=22D3EE&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Robotics+%7C+IoT+Developer;Building+NODUS;ROS+2+%7C+ESP32+%7C+Linux"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&duration=2800&color=22D3EE&center=true&vCenter=true&width=750&lines=AKA+YW3R;Embedded+Systems+Engineer;Robotics+%7C+IoT+Developer;Building+NODUS;ROS+2+%7C+ESP32+%7C+Linux"/>
 
 </div>
 
